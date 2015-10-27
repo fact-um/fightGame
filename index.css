@@ -1,0 +1,9 @@
+.field {
+	border: 1px solid #ddd;
+	background: #fafafa;
+	display: inline-block;
+	position: relative;
+}
+.pers {
+	position: absolute;
+}
